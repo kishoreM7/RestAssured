@@ -6,7 +6,7 @@ public class EmpDetails {
 	int phnNum;
 	String email;
 	String address;
-
+//emp pojo
 	public EmpDetails() {
 		// TODO Auto-generated constructor stub
 	}
